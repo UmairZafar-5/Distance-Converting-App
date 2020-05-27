@@ -1,0 +1,4 @@
+#Thu May 28 00:34:51 PKT 2020
+base.0=C\:\\Users\\Umair\\AndroidStudioProjects\\ConvertMilesToKm\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
